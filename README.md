@@ -1,0 +1,1 @@
+# vibe-coding-data-single-assignment
